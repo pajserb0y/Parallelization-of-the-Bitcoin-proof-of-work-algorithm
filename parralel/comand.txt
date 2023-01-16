@@ -1,0 +1,2 @@
+1. gcc -o main parralel-minning-algorithm.c -lcrypto -fopenmp
+2. /.main

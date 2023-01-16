@@ -1,0 +1,2 @@
+1. gcc -o main serial-mining-algorithm.c -lcrypto
+2. ./main
